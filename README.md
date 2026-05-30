@@ -6,6 +6,7 @@ The Women Safety Progressive Web App (PWA) is a web-based safety solution design
 situations. The application provides quick access to emergency features such as  location sharing,call emergency contacts
 ,find nearby police station and call police . Being a Progressive Web App, it can be installed on mobile devices and works seamlessly across different platforms.
 
+
 🚀 Features
 Live Location Sharing
 Share real-time location with trusted contacts during emergencies.
