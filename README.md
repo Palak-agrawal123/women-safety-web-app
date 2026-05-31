@@ -82,6 +82,9 @@ npx serve
 * Emergency audio/video recording
 * Multi-language support
 
+* deploy link(live)-
+* https://peaceful-lamington-03d68e.netlify.app/
+
 ## 👩‍💻 Author
 
 **Palak Agrawal**
